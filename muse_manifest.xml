@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sitepuclic.com" resolutions="1x" timestamp="1546108637707">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sitepuclic.com" resolutions="1x" timestamp="1546108777207">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3987771820" ref="index"/>
@@ -19,5 +19,5 @@
     <file name="blank.gif" crc="4208392903" ref="index:podrobnee"/>
   </folder>
   <file name="index.html" crc="4094161787" seo="true" mt="1546108351454" redirect="true"/>
-  <file name="podrobnee.html" crc="44387619" seo="true" mt="1546108561738" redirect="true"/>
+  <file name="podrobnee.html" crc="4264863043" seo="true" mt="1546108765620" redirect="true"/>
 </manifest>
